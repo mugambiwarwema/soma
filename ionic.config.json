@@ -1,0 +1,8 @@
+{
+  "name": "Soma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "453dd41e"
+}
